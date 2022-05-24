@@ -1,0 +1,10 @@
+# token:
+#   expiration_time: 864000000
+#   secret: user_token_native_application_changed_#2
+
+token:
+  expiration_time: 864000000
+  secret: "{cipher}AQB7v9hT2HHFvp+3dbQIIcmqDrxyGcvHseMGz8hl2kGUzbHidPUw7aCPc52f9XXPRXfi4XfWrO/SjDmIjjkNlXs971m+F+I80FOCtLL7F07al15u0cZldjmR9d6qVq0RuEsUejyr4i9UHS8dbbCyKCWdiTi6hi1GbBlZb6DY74HSpJTg1OkDt/hJ72qtalI/gxSEP5DW4eO5O9xOb/fz+/FR6jbgHLzR+MdXu8LxgFjDLvGEOlI3+T8lTRvIHRPpO83IBhnM1adLrDAaPg3MLWhgV2XIFJQyQJ/m13GHxihDDFvogiP1uW3gLGP16+d7W3LKSL5CgYFD11WBWlDtt/kdf34T2KylV2r/wEXNENB57eAHIFtwXt7GHrY6xG1we0q96q2Lqkl1JerdFvXAz77O"
+
+gateway:
+  ip: 192.168.1.14
